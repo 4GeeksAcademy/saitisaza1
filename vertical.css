@@ -1,0 +1,74 @@
+
+.header{
+    display: flex;
+  }
+  
+  .btn1{
+    padding-left: 1250px;
+  }
+  
+  .text{
+    padding-left: 10px;
+  }
+  
+  .dropdown{
+    padding-left: 20px;
+  }
+  
+  .logo{
+    padding-left: 5px;
+  }
+  
+  .date2{
+    padding-left: 420px;
+    
+    display: flex;
+  }
+  
+  .card1{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    
+  }
+  
+  .card2{
+  
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+  }
+  
+  .card3{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+  }
+  
+  .card4{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+  }
+  
+  .card5{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+  }
+  
+  .card6{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+  }
+  
+  
+  
+  
+   
+    
+    
+  
+    
+  
